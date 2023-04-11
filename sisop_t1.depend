@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1681238490 source:c:\sisop\t1\sisop_t1\sisop_t1\main.cpp
+	<iostream>
+	"Utils.h"
+	<sstream>
+
+1681233958 c:\sisop\t1\sisop_t1\sisop_t1\include\utils.h
+	<vector>
+	<string>
+	<Process.h>
+
+1681238663 source:c:\sisop\t1\sisop_t1\sisop_t1\src\utils.cpp
+	"Utils.h"
+	<fstream>
+	<iostream>
+	"Process.h"
+	<string>
+	<sstream>
+
+1681227637 source:c:\sisop\t1\sisop_t1\sisop_t1\src\process.cpp
+	"Process.h"
+
+1681238435 c:\sisop\t1\sisop_t1\sisop_t1\include\process.h
+	<vector>
+	<string>
+
